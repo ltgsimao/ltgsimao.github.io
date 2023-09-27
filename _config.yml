@@ -79,7 +79,7 @@ img_cdn:
 avatar: https://media.licdn.com/dms/image/D4E03AQGzjMb-B1wQ_g/profile-displayphoto-shrink_800_800/0/1665316977736?e=1701302400&v=beta&t=DDWzYH89Dix7D7F6icOOvwkp8Sx920J58oCVk5wwVW0
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
