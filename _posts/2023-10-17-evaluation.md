@@ -1,5 +1,5 @@
 ---
-title: Tomorrow In My Eyes
+title: Evaluation
 date: 2023-10-17
 categories: [fiction, short-story]
 tags: [sci-fi]
