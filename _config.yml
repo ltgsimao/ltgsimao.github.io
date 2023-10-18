@@ -18,7 +18,7 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yet Another Computer Scientist's Blog # the main title
+title: Yet Another Computer Scientist's Blog # the main title 
 
 tagline: With Too Much Prose # it will display as the sub-title
 
